@@ -9,5 +9,4 @@ class DesignPatternsApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
